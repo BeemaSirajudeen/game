@@ -1,0 +1,17 @@
+.main
+{
+   width: 20em;
+   height: 20em;
+    background-color: blue;
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+
+}
+.main div
+{
+ border:black solid 2px;
+}
+.win
+{
+    background-color:rebeccapurple;
+}
